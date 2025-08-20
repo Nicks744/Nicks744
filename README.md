@@ -36,7 +36,7 @@ Aqui estão algumas das tecnologias com as quais estou aprendendo e desenvolvend
 
 Aqui estão alguns dos projetos que desenvolvi durante meus estudos no SENAI:
 
-- **[tempo-juntos]**: [Breve descrição do projeto, por exemplo: "Um sistema de tempo de relacionamento juntos em React"] - [https://github.com/Nicks744/tempo-juntos]
+- **[tempo-juntos]**: [Breve descrição do projeto, por exemplo: "Um sistema de tempo de relacionamento juntos em JSX"] - [https://github.com/Nicks744/tempo-juntos]
 - **[Crud_camisa_futebol]**: [Breve descrição do projeto, por exemplo: "Um sistema de gerenciamento de camisas de futebol em JSX e MySQL."] - [https://github.com/Nicks744/Crud_camisa_futebol]
 
 
