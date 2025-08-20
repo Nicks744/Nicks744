@@ -1,8 +1,6 @@
 # Olá, eu sou Lucas Nicolas! 👋
 
-<a href="https://visitor-badge.glitch.me/badge?page_id=Nicks744.Nicks744" target="_blank">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Nicks744.Nicks744&left_text=Visitantes" alt="Contador de Visitantes"/>
-</a>
+[![Contador de Visitantes](https://visitor-badge.glitch.me/badge?page_id=Nicks744.Nicks744&left_text=Visitantes)](https://visitor-badge.glitch.me/badge?page_id=Nicks744.Nicks744)
 
 <p align="center">
   <a href="#-sobre-mim">Sobre mim</a> •
