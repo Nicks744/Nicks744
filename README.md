@@ -1,6 +1,6 @@
 # Olá, eu sou Lucas Nicolas! 👋
 
-<img src="https://visitor-badge.glitch.me/badge?page_id=Nicks744.Nicks744" />
+![Contador de Visitas](https://visit-counter.arturssmirnovs.com/badge.svg?id=Nicks744.Nicks744_profile_views&label=Visitantes&color=0077B5&style=flat-square)
 
 <p align="center">
   <a href="#-sobre-mim">Sobre mim</a> •
