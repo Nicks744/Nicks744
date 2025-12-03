@@ -13,7 +13,7 @@
 
 - 🎓 Atualmente cursando **Desenvolvimento de Sistemas** no **SENAI**.
 - 🌱 Tenho 18 anos e sou apaixonado por tecnologia e programação.
-- 🚀 Buscando minha primeira oportunidade no mercado de trabalho como desenvolvedor.
+- 🚀 Buscando minha primeira oportunidade no mercado de trabalho.
 - 💬 Adoro aprender coisas novas e estou sempre me desafiando com novos projetos.
 - 📫 Você pode me encontrar em: [Lucas Nicolas] - [lucasnicos2016@gmail.com](mailto:lucasnicos2016@gmail.com)
 
