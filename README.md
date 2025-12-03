@@ -36,6 +36,7 @@ Aqui estão alguns dos projetos que desenvolvi durante meus estudos no SENAI:
 
 - **[tempo-juntos]**: ["Um sistema de tempo de relacionamento juntos em JSX"] - [https://github.com/Nicks744/tempo-juntos]
 - **[Crud_camisa_futebol]**: ["Um sistema de gerenciamento de camisas de futebol em JSX e MySQL."] - [https://github.com/Nicks744/Crud_camisa_futebol]
+- - **[Clinica Veterinaria (TCC)]**: ["Um sistema para otimizar os processor de uma clinica veterinária em JAVA,JSX e MySQL."] - [https://github.com/Nicks744/clinica-veterinaria-tcc]
 
 
 *Estou sempre trabalhando em novos projetos, então fique de olho para mais novidades!*
